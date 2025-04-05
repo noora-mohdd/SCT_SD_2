@@ -35,6 +35,8 @@ This repository contains a Python program that generates a random number and cha
 
 ---
 
+## Sample Output
+
 ```text
 guess a number (1-100): hello
 please enter a valid number, not text.
