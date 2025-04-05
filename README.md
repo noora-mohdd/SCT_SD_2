@@ -74,7 +74,7 @@ Good Job!
 ## Let's Connect
 
 Feel free to reach out if you have any questions or feedback about this project.  
-Connect with me on [LinkedIn](www.linkedin.com/in/noora-mohammed-ejaz-02371a34a)!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/noora-mohammed-ejaz-02371a34a)!
 
 ---
 
