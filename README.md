@@ -35,28 +35,37 @@ This repository contains a Python program that generates a random number and cha
 
 ---
 
-## sample output
-
+```text
 guess a number (1-100): hello
 please enter a valid number, not text.
+
 guess a number (1-100): 120
 enter a valid number
+
 guess a number (1-100): 60
 too low! try again
+
 guess a number (1-100): 80
 too high! try again
+
 guess a number (1-100): 75
 too high! try again
+
 guess a number (1-100): 70
 too high! try again
+
 guess a number (1-100): 67
 too low! try again
+
 guess a number (1-100): 69
 yes you got it!
 you won!
+
 do you want to play again?(y/n): n
+
 amount of guesses it took = 6
 Good Job!
+```
 
 ---
 
